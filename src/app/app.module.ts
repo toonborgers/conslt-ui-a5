@@ -4,7 +4,8 @@ import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
 import {HttpClientModule} from '@angular/common/http';
-import {CoreModule} from './core/core.module';
+import {TranslationModule} from './translate/module';
+import {CoreModule} from './core/module';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import {CoreModule} from './core/core.module';
   imports: [
     BrowserModule,
     HttpClientModule,
-    CoreModule
+    CoreModule,
+    TranslationModule
   ],
   providers: [],
   bootstrap: [AppComponent]
