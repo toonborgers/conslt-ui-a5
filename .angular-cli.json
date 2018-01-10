@@ -19,7 +19,7 @@
       "testTsconfig": "../test/tsconfig.spec.json",
       "prefix": "cui",
       "styles": [
-        "styles.scss"
+        "assets/css/main.scss"
       ],
       "scripts": [
         "../node_modules/jquery/dist/jquery.slim.js"
