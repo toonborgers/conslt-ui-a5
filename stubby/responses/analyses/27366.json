@@ -1,0 +1,210 @@
+[
+    {
+        "sampleTakenDate": "2017-09-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "200",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-08-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "140",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-08-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "230",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-07-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "200",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-06-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "UP",
+        "referenceValues": "30 - 300",
+        "severity": "WORRYING",
+        "value": "355",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-05-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "35",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-04-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "155",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-03-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "155",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-02-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "155",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2017-01-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "34",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-12-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "...",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-11-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "...",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-10-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "...",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-09-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "...",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-08-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "DOWN",
+        "referenceValues": "30 - 300",
+        "severity": "WORRYING",
+        "value": "29",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    },
+    {
+        "sampleTakenDate": "2016-07-11T11:46:00.000",
+        "analysisNumber": "24976",
+        "deviationDirection": "NONE",
+        "referenceValues": "30 - 300",
+        "severity": "NORMAL",
+        "value": "200",
+        "unit": "µg/L",
+        "reference": {
+            "min": 30,
+            "max": 300
+        }
+    }
+]

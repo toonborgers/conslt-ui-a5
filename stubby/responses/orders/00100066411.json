@@ -1,0 +1,1213 @@
+{
+    "vioNumber": "1779500",
+    "patientFirstName": "GARFIELD",
+    "patientLastName": "TESTPATIENT",
+    "patientStreet": "Brunngasse 6",
+    "patientPostalCode": "8401",
+    "patientCity": "Winterthur",
+    "patientCountry": "Schweiz",
+    "patientBirthday": "1912-12-13",
+    "patientGender": "MALE",
+    "sampleDate": "2017-02-22T15:19:00.000",
+    "orderDate": "2017-02-22T15:19:00.000",
+    "hasUndisplayableResults": true,
+    "labComments": [],
+    "labCommentsAsHtml": "",
+    "report": [
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Basisanalysen",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Stoffwechsel",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "24976",
+            "label": "Ferritin",
+            "value": "35",
+            "unit": "µg/L",
+            "referenceValues": "30 - 300",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                [
+                    "A lab comment"
+                ]
+            ],
+            "labCommentsAsHtml": "A lab comment",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Mikrobiologie",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "801/000.6.6411   Entnahme: 22.02.2017 15:23   Unters.obe - rechts -",
+            "microbiology": {
+                "specimenSourceLocation": "rechts",
+                "specimenSource": "Unters.obe",
+                "sampleDate": "Entnahme: 22.02.2017 15:23",
+                "sampleNumber": "801/000.6.6411"
+            },
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Gramfärbung",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68101",
+            "label": "Epithelien",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68110",
+            "label": "Leukozyten",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68130",
+            "label": "Grampositive Stäbchen",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68140",
+            "label": "Grampositive Kokken",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68150",
+            "label": "Gramnegative Stäbchen",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68160",
+            "label": "Gramnegative Diplokokken",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68190",
+            "label": "Sprosspilze",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Kultur",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "60401",
+            "label": "Aerob",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": true,
+            "labComments": [
+                [
+                    "1.                  Bacillus stearothermophilus"
+                ]
+            ],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": 1,
+                    "value": null,
+                    "text": "                 Bacillus stearothermophilus"
+                }
+            ],
+            "labCommentsAsHtml": "1.                  Bacillus stearothermophilus",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "801/000.6.6412   Entnahme: 22.02.2017 15:20   Sputum - Tracheals. -",
+            "microbiology": {
+                "specimenSourceLocation": "Tracheals.",
+                "specimenSource": "Sputum",
+                "sampleDate": "Entnahme: 22.02.2017 15:20",
+                "sampleNumber": "801/000.6.6412"
+            },
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Gramfärbung",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68101",
+            "label": "Epithelien",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68110",
+            "label": "Leukozyten",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68130",
+            "label": "Grampositive Stäbchen",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68133",
+            "label": "Grampositive Diplokokken",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": true,
+            "labComments": [
+                [
+                    "2.  -> mikroskopisch vereinbar mit Plaut Vincent Flora"
+                ]
+            ],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": 2,
+                    "value": null,
+                    "text": " -> mikroskopisch vereinbar mit Plaut Vincent Flora"
+                }
+            ],
+            "labCommentsAsHtml": "2.  -&gt; mikroskopisch vereinbar mit Plaut Vincent Flora",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68140",
+            "label": "Grampositive Kokken",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68150",
+            "label": "Gramnegative Stäbchen",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68160",
+            "label": "Gramnegative Diplokokken",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68170",
+            "label": "Spirochaeten",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68180",
+            "label": "Fusiforme Stäbchen",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68190",
+            "label": "Sprosspilze",
+            "value": "...",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Spezial",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "61170",
+            "label": "Nocardia species Kultur",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": true,
+            "labComments": [
+                [
+                    "& 1. commen ocardia brasiliensis  1.",
+                    "",
+                    "                 Nocardia species"
+                ]
+            ],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "& 1. commen ocardia brasiliensis  1."
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": ""
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "                 Nocardia species"
+                }
+            ],
+            "labCommentsAsHtml": "&amp; 1. commen ocardia brasiliensis  1.<br /><br />                 Nocardia species",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "61320",
+            "label": "Spross- / Schimmelpilze",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": true,
+            "labComments": [
+                [
+                    "3.                  Cryptococcus laurentii"
+                ]
+            ],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": 3,
+                    "value": "++",
+                    "text": "                 Cryptococcus laurentii"
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "Identificazione provvisoria mediante metodo PCR. Il complesso M. tuberculosis comprende le specie M. tuberculosis, M. bovis, M. africanum, M. microti e M. canettii"
+                }
+            ],
+            "labCommentsAsHtml": "3.                  Cryptococcus laurentii",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "62540",
+            "label": "Pneumocystis jiroveci",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": true,
+            "labComments": [
+                [
+                    "4.    Pneumocystis jiroveci"
+                ]
+            ],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": 4,
+                    "value": null,
+                    "text": "   Pneumocystis jiroveci"
+                }
+            ],
+            "labCommentsAsHtml": "4.    Pneumocystis jiroveci",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "ANTIBIOGRAM_HEADER",
+            "level": 2,
+            "text": "Resistenzprüfung",
+            "entryType": "ANTIBIOGRAM_HEADER"
+        },
+        {
+            "@entryType": "ANTIBIOGRAM",
+            "entryType": "ANTIBIOGRAM",
+            "level": 2,
+            "antibiogram": {
+                "pathogenHeaders": [
+                    {
+                        "pathogenCode": "bast",
+                        "pathogenName": "1. Bac. stear"
+                    },
+                    {
+                        "pathogenCode": "bpvp",
+                        "pathogenName": "2. Plaut pos."
+                    },
+                    {
+                        "pathogenCode": "crla",
+                        "pathogenName": "3. Crypt.laur"
+                    },
+                    {
+                        "pathogenCode": "pnca",
+                        "pathogenName": "4. Pneumo.jir"
+                    }
+                ],
+                "antibiotics": [
+                    {
+                        "name": "Penicillin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "R",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amoxicillin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oxacillin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Co-Amoxiclav",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "I",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ceftriaxon",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Erythromycin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "R",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clindamycin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "I",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gentamicin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tetracyclin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "R",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Co-trimoxazol",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "I",
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ciprofloxacin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Levofloxacin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vancomycin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rifampicin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fusidinsäure",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amphotericin B",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fluconazol",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Itraconazol",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Voriconazol",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Posaconazol",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "5-Fluorocytosin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Anidulafungin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Micafungin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caspofungin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "bast",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "bpvp",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "...",
+                                "pathogenCode": "crla",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "pnca",
+                                "labNumber": 801
+                            }
+                        ]
+                    }
+                ],
+                "legend": "R = Resistent, I = Intermediär, S = Sensibel"
+            }
+        }
+    ],
+    "labId": "001",
+    "orderId": "00066411",
+    "requestNumberFormatted": "001/00.066411",
+    "requestNumber": "00100066411",
+    "orderingDoctor": {
+        "doctorNumber": "57761",
+        "title": "Dr. med.",
+        "firstName": "Demo",
+        "lastName": "ConsultIT",
+        "street": "Hagmattstrasse 14",
+        "postalCode": "4123",
+        "city": "Allschwil"
+    },
+    "containsTypes": [
+        "MICROBIOLOGY",
+        "ANTIBIOGRAM"
+    ],
+    "links": [
+        {
+            "rel": "report.order",
+            "href": "/v1/doctors/57761/orders/00100066411/report?reportType=order"
+        },
+        {
+            "rel": "report.cumulative",
+            "href": "/v1/doctors/57761/orders/00100066411/report?reportType=cumulative"
+        }
+    ]
+}

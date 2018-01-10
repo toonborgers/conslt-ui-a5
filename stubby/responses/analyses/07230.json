@@ -1,0 +1,41 @@
+[
+  {
+    "sampleTakenDate": "2016-10-27T16:10:00.000",
+    "analysisNumber": "07230",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 41",
+    "severity": "NORMAL",
+    "value": "30",
+    "unit": "U/L",
+    "reference": {
+      "min": null,
+      "max": 41
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-27T16:10:00.000",
+    "analysisNumber": "07230",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 41",
+    "severity": "NORMAL",
+    "value": "40",
+    "unit": "U/L",
+    "reference": {
+      "min": null,
+      "max": 41
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-20T11:38:00.000",
+    "analysisNumber": "07230",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 41",
+    "severity": "NORMAL",
+    "value": "25",
+    "unit": "U/L",
+    "reference": {
+      "min": null,
+      "max": 41
+    }
+  }
+]

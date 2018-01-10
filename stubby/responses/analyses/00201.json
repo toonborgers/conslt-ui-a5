@@ -1,0 +1,12 @@
+[
+  {
+    "sampleTakenDate": "2016-10-28T11:46:00.000",
+    "analysisNumber": "00201",
+    "deviationDirection": "NONE",
+    "referenceValues": null,
+    "severity": "NORMAL",
+    "value": "Hinweis",
+    "unit": null,
+    "reference": null
+  }
+]

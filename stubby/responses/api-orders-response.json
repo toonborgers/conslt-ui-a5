@@ -1,0 +1,72 @@
+[
+    {
+        "requestNumber": "00100069393",
+        "sampleDate": "2017-09-12T11:49:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/00100069393?lang=en"
+            }
+        ]
+    },
+    {
+        "requestNumber": "00100070865",
+        "sampleDate": "2017-07-24T11:48:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57436/orders/00100070865?lang=de"
+            }
+        ]
+    },
+    {
+        "requestNumber": "01300069046",
+        "sampleDate": "2017-08-22T12:10:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/01300069046?lang=en"
+            }
+        ]
+    },
+    {
+        "requestNumber": "00100002445",
+        "sampleDate": "2016-12-09T10:52:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/00100002445?lang=en"
+            }
+        ]
+    },
+    {
+        "requestNumber": "00100002342",
+        "sampleDate": "2016-12-05T14:40:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/00100002342?lang=en"
+            }
+        ]
+    },
+    {
+        "requestNumber": "00100001884",
+        "sampleDate": "2016-10-20T08:05:00.000",
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/00100001884?lang=en"
+            }
+        ]
+    },
+    {
+        "requestNumber": "00100000002",
+        "sampleDate": null,
+        "links": [
+            {
+                "rel": "order.detail",
+                "href": "/v1/doctors/57761/orders/00100001884?lang=en"
+            }
+        ]
+    }
+]

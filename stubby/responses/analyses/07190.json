@@ -1,0 +1,28 @@
+[
+  {
+    "sampleTakenDate": "2016-10-13T16:48:00.000",
+    "analysisNumber": "07190",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 104",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "µmol/L",
+    "reference": {
+      "min": null,
+      "max": 104
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-13T14:59:00.000",
+    "analysisNumber": "07190",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 104",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "µmol/L",
+    "reference": {
+      "min": null,
+      "max": 104
+    }
+  }
+]

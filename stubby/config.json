@@ -1,0 +1,134 @@
+[
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/patients/([0-9]+)/results/([0-9]+)/?$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/analyses/<%url[3]%>.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/orders/([0-9]+)/report$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/orders/reports/report.pdf",
+      "headers": {
+        "Content-Type": "application/pdf",
+        "Content-Disposition": "inline"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/patients/([0-9]+)?/orders$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/api-orders-response.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/patients/?/orders$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/api-orders-response-empty.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/orders/([0-9]+)/pdfResult/[a-z0-9]+$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/orders/pdfresult/result.pdf",
+      "headers": {
+        "Content-Type": "application/pdf",
+        "Content-Disposition": "inline"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/doctors/([0-9]+)/orders/([0-9]+)$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/orders/<%url[2]%>.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/translations$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/api-translations-response.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/users/(.+)/patients/([0-9]+)/results/([0-9]+)/?$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/analyses/<%url[3]%>.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/users/([a-zA-Z]+)/patients/([0-9]+)?/orders$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/api-orders-response.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "url": "^/v1/users/([a-zA-Z]+)/patients/?/orders$",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "file": "responses/api-orders-response-empty.json",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+]

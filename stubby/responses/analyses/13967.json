@@ -1,0 +1,28 @@
+[
+  {
+    "sampleTakenDate": "2016-10-13T16:48:00.000",
+    "analysisNumber": "13967",
+    "deviationDirection": "NONE",
+    "referenceValues": "73 - 271",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "nmol/L",
+    "reference": {
+      "min": 73,
+      "max": 271
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-13T14:59:00.000",
+    "analysisNumber": "13967",
+    "deviationDirection": "NONE",
+    "referenceValues": "73 - 271",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "nmol/L",
+    "reference": {
+      "min": 73,
+      "max": 271
+    }
+  }
+]

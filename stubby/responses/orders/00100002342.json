@@ -1,0 +1,121 @@
+{
+    "vioNumber": "1779500",
+    "patientFirstName": "Garfield",
+    "patientLastName": "Testpatient",
+    "patientStreet": "Brunngasse 6",
+    "patientPostalCode": "8401",
+    "patientCity": "Winterthur",
+    "patientCountry": "Switzerland",
+    "patientBirthday": "1912-12-13",
+    "patientGender": "MALE",
+    "sampleDate": "2016-12-05T14:40:00.000",
+    "hasUndisplayableResults": false,
+    "labComments": [],
+    "labCommentsAsHtml": "",
+    "report": [
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Point-of-Care by senderer (non-accredited domain)",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Hämatologie",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Coagulation",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95120",
+            "label": "Quick",
+            "value": "1",
+            "unit": "%",
+            "referenceValues": "70 - 100",
+            "severity": "DANGEROUS",
+            "deviationDirection": "DOWN",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "POCT_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95121",
+            "label": "INR",
+            "value": "1.0",
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "POCT_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Ende des nicht akkreditierten Bereiches",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "99499",
+            "label": "99499",
+            "value": "",
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        }
+    ],
+    "labId": "001",
+    "orderId": "00002342",
+    "requestNumberFormatted": "001/00.002342",
+    "requestNumber": "00100002342",
+    "orderingDoctor": {
+        "doctorNumber": "57761",
+        "title": "Dr. med.",
+        "firstName": "Demo",
+        "lastName": "ConsultIT",
+        "street": "Hagmattstrasse 14",
+        "postalCode": "4123",
+        "city": "Allschwil"
+    },
+    "containsTypes": [
+        "NORMAL"
+    ],
+    "links": [
+        {
+            "rel": "report.order",
+            "href": "/v1/doctors/57761/orders/00100002342/report?reportType=order"
+        },
+        {
+            "rel": "report.cumulative",
+            "href": "/v1/doctors/57761/orders/00100002342/report?reportType=cumulative"
+        }
+    ]
+}

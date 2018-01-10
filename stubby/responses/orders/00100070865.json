@@ -1,0 +1,1084 @@
+{
+    "vioNumber": "2847675",
+    "patientFirstName": "Marco",
+    "patientLastName": "Baresi",
+    "patientStreet": "Oberdorfstrasse 5",
+    "patientPostalCode": "4000",
+    "patientCity": "Basel",
+    "patientCountry": "Schweiz",
+    "patientBirthday": "1953-11-18",
+    "patientGender": "MALE",
+    "sampleDate": "2017-07-24T11:48:00.000",
+    "orderDate": "2017-07-24T11:48:00.000",
+    "hasUndisplayableResults": true,
+    "labComments": [],
+    "labCommentsAsHtml": "",
+    "report": [
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Hämatologie",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95100",
+            "label": "Natrium",
+            "value": "...",
+            "unit": "mmol/L",
+            "referenceValues": "135 - 147",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "Al microscopio si nota una forte contaminazione con flora faringea, più di 25 gellule epiteliali per campo ottico con l'ingrandamento x100.",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95102",
+            "label": "Kreatinin",
+            "value": "2.9",
+            "unit": "mmol/L",
+            "referenceValues": "2.1 - 4.5",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Stoffwechsel",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95104",
+            "label": "Natrium2",
+            "value": "...",
+            "unit": "mmol/L",
+            "referenceValues": "135 - 147",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "07100",
+            "label": "Kalium",
+            "value": "6.0",
+            "unit": "mmol/L",
+            "referenceValues": "3.5 - 5.1",
+            "severity": "DANGEROUS",
+            "deviationDirection": "UP",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "links": [
+                {
+                    "rel": "results.for.analysis",
+                    "href": "/v1/users/TESTDE/patients/2847675/results/07100"
+                }
+            ],
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "95105",
+            "label": "Kreatinin2",
+            "value": "...",
+            "unit": "mmol/L",
+            "referenceValues": "2.1 - 4.5",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Gynäkologische Zytodiagnostik",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "22024",
+            "label": "Methode",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "22025",
+            "label": "Entnahmeort",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "22026",
+            "label": "Zellmaterial",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "22044",
+            "label": "Plattenepithelien",
+            "value": "++",
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "22045",
+            "label": "PAP-Gruppe",
+            "value": "III",
+            "unit": null,
+            "referenceValues": null,
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Molekularbiologischer Nachweis",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Chlamydien",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "07090",
+            "label": "C. trachomatis PCR",
+            "value": "negativ",
+            "unit": "",
+            "referenceValues": "negativ",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "microbiologyNotes": [],
+            "level": 3,
+            "analysisType": "POCT_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Neisseria gonorrhoeae",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "07090",
+            "label": "N. gonorrhoeae PCR",
+            "value": "negativ",
+            "unit": "",
+            "referenceValues": "negativ",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "microbiologyNotes": [],
+            "level": 3,
+            "analysisType": "POCT_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Mikrobiologie",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "801/188.6.8540   Entnahmezeit / -datum 26.07.2017 / 08:00",
+            "microbiology": {
+                "specimenSourceLocation": "cerivce",
+                "specimenSource": "Striscio genitale",
+                "sampleDate": "Entnahmezeit / -datum 26.07.2017 / 08:00",
+                "sampleNumber": "801/188.6.8540"
+            },
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Colorazione di Gram",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68101",
+            "label": "Celulle epiteliali",
+            "value": "++",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68110",
+            "label": "Lieviti",
+            "value": "++",
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Coltura",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68130",
+            "label": "Aerobi",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": null,
+                    "value": "+++",
+                    "text": "Gardinella vaginalis"
+                },
+                {
+                    "pathogenNumber": 1,
+                    "value": "++",
+                    "text": "complesso M. tuberculosis"
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "Identificazione provvisoria mediante metodo PCR. Il complesso  M. tuberculosis comprende le specie M. tuberculosis, M. bovis, M. africanum, M. microti e M. canettii"
+                },
+                {
+                    "pathogenNumber": 2,
+                    "value": "+",
+                    "text": "Streptococcus pneumoniae"
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "Streptococcus pneumoniae resistente alla penicilina (CMI > 2.0 mg/L)"
+                },
+                {
+                    "pathogenNumber": 3,
+                    "value": "+++",
+                    "text": "Escherichia coli"
+                }
+            ],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Coltura",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68130",
+            "label": "Anerobi",
+            "value": null,
+            "unit": null,
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": null,
+                    "value": "+++",
+                    "text": "Gardinella vaginalis"
+                },
+                {
+                    "pathogenNumber": 4,
+                    "value": "+",
+                    "text": "non fermentativi"
+                },
+                {
+                    "pathogenNumber": null,
+                    "value": null,
+                    "text": "Antibiogramma con riserva. Non c'è a disposizione un'interpretazione standard"
+                },
+                {
+                    "pathogenNumber": 5,
+                    "value": "+++",
+                    "text": "Staphylococcus aureus"
+                },
+                {
+                    "pathogenNumber": 6,
+                    "value": "++",
+                    "text": "Strepto. beta-emol. gruppo A"
+                }
+            ],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 3,
+            "text": "Urina II",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "68130",
+            "label": "Numero total dei germi",
+            "value": null,
+            "unit": "",
+            "referenceValues": null,
+            "severity": null,
+            "deviationDirection": null,
+            "finalResult": false,
+            "labComments": [],
+            "microbiologyNotes": [
+                {
+                    "pathogenNumber": null,
+                    "value": "1.000.000 cfu/mL",
+                    "text": "Coltura mista con almeno 3 diverse specie batteriche senza un patogeno dominante."
+                }
+            ],
+            "labCommentsAsHtml": "",
+            "level": 3,
+            "analysisType": "MICROBIOLOGY_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "ANTIBIOGRAM_HEADER",
+            "level": 2,
+            "text": "Resistenzprüfung",
+            "entryType": "ANTIBIOGRAM_HEADER"
+        },
+        {
+            "@entryType": "ANTIBIOGRAM",
+            "entryType": "ANTIBIOGRAM",
+            "level": 2,
+            "antibiogram": {
+                "pathogenHeaders": [
+                    {
+                        "pathogenCode": "one",
+                        "pathogenName": "One"
+                    },
+                    {
+                        "pathogenCode": "two",
+                        "pathogenName": "complesso M. tuberculosis"
+                    },
+                    {
+                        "pathogenCode": "three",
+                        "pathogenName": "Three"
+                    },
+                    {
+                        "pathogenCode": "four",
+                        "pathogenName": "Four"
+                    },
+                    {
+                        "pathogenCode": "five",
+                        "pathogenName": "Five"
+                    },
+                    {
+                        "pathogenCode": "six",
+                        "pathogenName": "Six"
+                    },
+                    {
+                        "pathogenCode": "seven",
+                        "pathogenName": "Seven"
+                    },
+                    {
+                        "pathogenCode": "eight",
+                        "pathogenName": "Eight"
+                    },
+                    {
+                        "pathogenCode": "nine",
+                        "pathogenName": "Nine"
+                    },
+                    {
+                        "pathogenCode": "ten",
+                        "pathogenName": "Ten"
+                    },
+                    {
+                        "pathogenCode": "eleven",
+                        "pathogenName": "Eleven"
+                    },
+                    {
+                        "pathogenCode": "twelve",
+                        "pathogenName": "Twelve"
+                    }
+                ],
+                "antibiotics": [
+                    {
+                        "name": "Ethambutol 2.5 mg/L",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "S",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Piperacilin / Tazobactam",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "R",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Co-Amoxiclav",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "S",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ceftadin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "I",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amoxicilin",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "S",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cefepim",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": null,
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "R",
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Imipenem",
+                        "type": "RESULT",
+                        "values": [
+                            {
+                                "value": "S",
+                                "pathogenCode": "one",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "two",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "three",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "I",
+                                "pathogenCode": "four",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "five",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "six",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "seven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "eight",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "nine",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "ten",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": "S",
+                                "pathogenCode": "eleven",
+                                "labNumber": 801
+                            },
+                            {
+                                "value": null,
+                                "pathogenCode": "twelve",
+                                "labNumber": 801
+                            }
+                        ]
+                    }
+                ],
+                "legend": "R = Resistent, I = Intermediär, S = Sensibel"
+            }
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Pathology",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "PdfResultReportEntryRTO",
+            "analysisNumber": "00910",
+            "fileName": "HS16.13428.V01.pdf",
+            "fileIdentifier": "d93677348984ec1a71fe6c49518fa636",
+            "level": 1,
+            "label": "Histopathologie",
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": null,
+            "links": [
+                {
+                    "rel": "pdf",
+                    "href": "/v1/doctors/57761/orders/00100065562/pdfResult/d93677348984ec1a71fe6c49518fa636"
+                }
+            ],
+            "entryType": "PDFRESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Cardiology",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "PdfResultReportEntryRTO",
+            "analysisNumber": "00911",
+            "fileName": null,
+            "fileIdentifier": null,
+            "level": 1,
+            "label": "Cardio",
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": null,
+            "links": [],
+            "entryType": "PDFRESULT"
+        }
+    ],
+    "labId": "001",
+    "orderId": "00100001722",
+    "requestNumberFormatted": "001/00.001722",
+    "requestNumber": "00100070865",
+    "orderingDoctor": {
+        "doctorNumber": "57436",
+        "title": "Dr. med.",
+        "firstName": "Adrian",
+        "lastName": "Keller",
+        "street": "Postfach",
+        "postalCode": "4002",
+        "city": "Basel",
+        "country": "Schweiz"
+    },
+    "containsTypes": [
+        "MICROBIOLOGY",
+        "NORMAL",
+        "ANTIBIOGRAM"
+    ],
+    "links": [
+        {
+            "rel": "report.order",
+            "href": "/v1/doctors/57436/orders/00100001722/report?reportType=order"
+        },
+        {
+            "rel": "report.cumulative",
+            "href": "/v1/doctors/57436/orders/00100001722/report?reportType=cumulative"
+        },
+        {
+            "rel": "orders.for.patient",
+            "href": "/v1/users/TESTDE/patients/2847675/orders"
+        }
+    ]
+}

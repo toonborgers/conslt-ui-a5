@@ -1,0 +1,28 @@
+[
+  {
+    "sampleTakenDate": "2016-10-13T16:48:00.000",
+    "analysisNumber": "10401",
+    "deviationDirection": "NONE",
+    "referenceValues": "> 40",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "pmol/L",
+    "reference": {
+      "min": 40,
+      "max": null
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-13T14:59:00.000",
+    "analysisNumber": "10401",
+    "deviationDirection": "NONE",
+    "referenceValues": "> 40",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "pmol/L",
+    "reference": {
+      "min": 40,
+      "max": null
+    }
+  }
+]

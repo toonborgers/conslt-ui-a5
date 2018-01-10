@@ -1,0 +1,28 @@
+[
+  {
+    "sampleTakenDate": "2016-10-13T16:48:00.000",
+    "analysisNumber": "07500",
+    "deviationDirection": "NONE",
+    "referenceValues": "0.62 - 1.05",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "mg/L",
+    "reference": {
+      "min": 0.62,
+      "max": 1.05
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-13T14:59:00.000",
+    "analysisNumber": "07500",
+    "deviationDirection": "NONE",
+    "referenceValues": "0.62 - 1.05",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "mg/L",
+    "reference": {
+      "min": 0.62,
+      "max": 1.05
+    }
+  }
+]

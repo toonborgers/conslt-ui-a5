@@ -1,0 +1,59 @@
+{
+  "vioNumber": "2842188",
+  "patientFirstName": "Elias",
+  "patientLastName": "Van den Berg",
+  "patientStreet": "Eliasstraat 88",
+  "patientPostalCode": "2000",
+  "patientCity": "Eliasdorp",
+  "patientCountry": "Belgien",
+  "patientBirthday": "1994-08-08",
+  "patientGender": "MALE",
+  "sampleDate": "2017-08-22T12:10:00.000",
+  "orderDate": null,
+  "hasUndisplayableResults": false,
+  "labComments": [],
+  "labCommentsAsHtml": "",
+  "report": [
+    {
+      "@entryType": "PdfResultReportEntryRTO",
+      "analysisNumber": "00943",
+      "fileName": null,
+      "fileIdentifier": null,
+      "level": 0,
+      "label": "7-Tage EKG",
+      "labComments": [
+        []
+      ],
+      "labCommentsAsHtml": null,
+      "links": [],
+      "entryType": "PDFRESULT"
+    }
+  ],
+  "labId": "013",
+  "orderId": "00069046",
+  "requestNumberFormatted": "013/00.069046",
+  "requestNumber": "01300069046",
+  "orderingDoctor": {
+    "doctorNumber": "57761",
+    "title": "Dr. med.",
+    "firstName": "Demo",
+    "lastName": "ConsultIT",
+    "street": "Hagmattstrasse 14",
+    "postalCode": "4123",
+    "city": "Allschwil"
+  },
+  "containsTypes": [
+    "CARDIOLOGY"
+  ],
+  "links": [
+    {
+      "rel": "report.order",
+      "href": "/v1/doctors/57761/orders/01300069046/report?reportType=order"
+    },
+    {
+      "rel": "report.cumulative",
+      "href": "/v1/doctors/57761/orders/01300069046/report?reportType=cumulative"
+    }
+  ],
+  "antibiogram": null
+}

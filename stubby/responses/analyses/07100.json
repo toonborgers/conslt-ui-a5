@@ -1,0 +1,197 @@
+[
+  {
+    "sampleTakenDate": "2017-06-15T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "6.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2017-01-03T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.5",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-29T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.2",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2016-08-03T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2016-06-27T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "3.8",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2016-05-20T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.3",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2016-01-30T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.6",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2015-08-07T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.8",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2015-05-10T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2015-02-01T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.4",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2014-09-28T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.2",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2014-08-07T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "7.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2014-06-27T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "5.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2014-05-01T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.3",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  },
+  {
+    "sampleTakenDate": "2013-10-03T00:00:00.000",
+    "analysisNumber": "07100",
+    "deviationDirection": "NONE",
+    "referenceValues": "3.5 - 5.1",
+    "severity": "NORMAL",
+    "value": "4.0",
+    "unit": "mmol/L",
+    "reference": {
+      "min": 3.5,
+      "max": 5.1
+    }
+  }
+]

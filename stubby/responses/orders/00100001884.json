@@ -1,0 +1,143 @@
+{
+    "vioNumber": "1779500",
+    "patientFirstName": "Garfield",
+    "patientLastName": "Testpatient",
+    "patientStreet": "Brunngasse 6",
+    "patientPostalCode": "8401",
+    "patientCity": "Winterthur",
+    "patientCountry": "Switzerland",
+    "patientBirthday": "1912-12-13",
+    "patientGender": "MALE",
+    "sampleDate": "2016-10-20T08:05:00.000",
+    "hasUndisplayableResults": false,
+    "labComments": [],
+    "labCommentsAsHtml": "i am a comment<br />second line",
+    "report": [
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Metabolism",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "7524",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "24976",
+            "label": "Ferritin",
+            "value": "35",
+            "unit": "µg/L",
+            "referenceValues": "30 - 300",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "i am also a comment<br />another line",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 1,
+            "text": "Molecular biological detection",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "HEADER",
+            "level": 2,
+            "text": "Respiratory viruses",
+            "entryType": "HEADER"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "56636",
+            "label": "Influenza A PCR",
+            "value": "...",
+            "unit": null,
+            "referenceValues": "negativ",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "56637",
+            "label": "Influenza B PCR",
+            "value": "...",
+            "unit": null,
+            "referenceValues": "negativ",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        },
+        {
+            "@entryType": "RESULT",
+            "analysisNumber": "56453",
+            "label": "Adenovirus PCR",
+            "value": "...",
+            "unit": null,
+            "referenceValues": "negativ",
+            "severity": "NORMAL",
+            "deviationDirection": "NONE",
+            "finalResult": false,
+            "labComments": [
+                []
+            ],
+            "labCommentsAsHtml": "",
+            "level": 2,
+            "analysisType": "NORMAL_ANALYSIS",
+            "entryType": "RESULT"
+        }
+    ],
+    "labId": "001",
+    "orderId": "00001884",
+    "requestNumberFormatted": "001/00.001884",
+    "requestNumber": "00100001884",
+    "orderingDoctor": {
+        "doctorNumber": "57761",
+        "title": "Dr. med.",
+        "firstName": "Demo",
+        "lastName": "ConsultIT",
+        "street": "Hagmattstrasse 14",
+        "postalCode": "4123",
+        "city": "Allschwil"
+    },
+    "containsTypes": [
+        "NORMAL"
+    ],
+    "links": [
+        {
+            "rel": "report.order",
+            "href": "/v1/doctors/57761/orders/00100001884/report?reportType=order"
+        },
+        {
+            "rel": "report.cumulative",
+            "href": "/v1/doctors/57761/orders/00100001884/report?reportType=cumulative"
+        },
+        {
+            "rel": "orders.for.patient",
+            "href": "/v1/users/TESTDE/patients/1779500/orders"
+        }
+    ]
+}

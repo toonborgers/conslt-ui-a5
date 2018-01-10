@@ -1,0 +1,15 @@
+[
+  {
+    "sampleTakenDate": "2016-10-20T11:33:00.000",
+    "analysisNumber": "36128",
+    "deviationDirection": "NONE",
+    "referenceValues": "< 200",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "kU/L",
+    "reference": {
+      "min": null,
+      "max": 200
+    }
+  }
+]

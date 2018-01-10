@@ -1,0 +1,54 @@
+[
+  {
+    "sampleTakenDate": "2016-11-02T09:11:00.000",
+    "analysisNumber": "95100",
+    "deviationDirection": "NONE",
+    "referenceValues": "135 - 175",
+    "severity": "NORMAL",
+    "value": "148",
+    "unit": "g/L",
+    "reference": {
+      "min": 135,
+      "max": 175
+    }
+  },
+  {
+    "sampleTakenDate": "2016-11-02T09:04:00.000",
+    "analysisNumber": "95100",
+    "deviationDirection": "DOWN",
+    "referenceValues": "135 - 175",
+    "severity": "WORRYING",
+    "value": "1",
+    "unit": "g/L",
+    "reference": {
+      "min": 135,
+      "max": 175
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-31T13:48:00.000",
+    "analysisNumber": "95100",
+    "deviationDirection": "NONE",
+    "referenceValues": "135 - 175",
+    "severity": "NORMAL",
+    "value": "...",
+    "unit": "g/L",
+    "reference": {
+      "min": 135,
+      "max": 175
+    }
+  },
+  {
+    "sampleTakenDate": "2016-10-28T14:51:00.000",
+    "analysisNumber": "95100",
+    "deviationDirection": "NONE",
+    "referenceValues": "135 - 175",
+    "severity": "NORMAL",
+    "value": "140",
+    "unit": "g/L",
+    "reference": {
+      "min": 135,
+      "max": 175
+    }
+  }
+]
