@@ -3,3 +3,55 @@
   background: #B3B3B3;
   border-color: #B3B3B3;
 }
+
+@font-face {
+  font-family: "Frutiger Neue";
+  src: url(./assets/fonts/FrutigerNeue/1366776/eacbf6c2-ef44-4857-b153-3f8fe906e053.eot#iefix);
+  src: url(./assets/fonts/FrutigerNeue/1366776/eacbf6c2-ef44-4857-b153-3f8fe906e053.eot#iefix) format("eot"),
+  url(./assets/fonts/FrutigerNeue/1366776/5d45c016-7f3c-446c-8154-eb18bb0da14c.woff2) format("woff2"),
+  url(./assets/fonts/FrutigerNeue/1366776/3da96504-eecf-4043-8047-d6645d1fcf0c.woff) format("woff"),
+  url(./assets/fonts/FrutigerNeue/1366776/b01f2703-fd12-427a-a448-b3ee3214faeb.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Frutiger Neue";
+  src: url(./assets/fonts/FrutigerNeue/1366778/8990cc5f-2126-43c8-8820-e0220f57a5d3.eot#iefix);
+  src: url(./assets/fonts/FrutigerNeue/1366778/8990cc5f-2126-43c8-8820-e0220f57a5d3.eot#iefix) format("eot"),
+  url(./assets/fonts/FrutigerNeue/1366778/904df250-ff7d-46f3-aa47-12a18e42a291.woff2) format("woff2"),
+  url(./assets/fonts/FrutigerNeue/1366778/a0000522-ff4c-4f3a-8d95-2194ee9cc4d4.woff) format("woff"),
+  url(./assets/fonts/FrutigerNeue/1366778/3ba2cea6-247e-4656-86c3-8aa2dcc2a159.ttf) format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Frutiger Neue";
+  src: url(./assets/fonts/FrutigerNeue/1366780/fe7e94be-5a70-4497-811b-1dec48cbef98.eot#iefix);
+  src: url(./assets/fonts/FrutigerNeue/1366780/fe7e94be-5a70-4497-811b-1dec48cbef98.eot#iefix) format("eot"),
+  url(./assets/fonts/FrutigerNeue/1366780/a7cf9397-70a3-4b73-8f59-cec9c5088445.woff2) format("woff2"),
+  url(./assets/fonts/FrutigerNeue/1366780/f01ea3c0-131d-4edf-b949-b4b6d38525e2.woff) format("woff"),
+  url(./assets/fonts/FrutigerNeue/1366780/3085e1e8-068e-4c63-bee7-b6e9ee016b82.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Frutiger Neue";
+  src: url(./assets/fonts/FrutigerNeue/1366782/4282a6a0-9c86-4b39-9bb6-c7f7ec9e2500.eot#iefix);
+  src: url(./assets/fonts/FrutigerNeue/1366782/4282a6a0-9c86-4b39-9bb6-c7f7ec9e2500.eot#iefix) format("eot"),
+  url(./assets/fonts/FrutigerNeue/1366782/e4f6c128-2759-4fab-82b4-bdb4488d699f.woff2) format("woff2"),
+  url(./assets/fonts/FrutigerNeue/1366782/c65d2676-6672-4bf9-a5d1-b97272d681a2.woff) format("woff"),
+  url(./assets/fonts/FrutigerNeue/1366782/143b4ca6-610a-4834-80f8-f4dad594b4cc.ttf) format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+$viollierFont: "Frutiger Neue", Arial, Helvetica, Tahoma, Verdana, sans-serif;
+$viollierFontSize: 15px;
+
+body {
+  font-family: $viollierFont;
+  font-size: $viollierFontSize;
+}
