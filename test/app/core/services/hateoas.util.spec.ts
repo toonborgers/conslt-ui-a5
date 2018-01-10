@@ -1,4 +1,4 @@
-import {HateoasUtil} from '../../src/core/core.hateoas.util';
+import {HateoasUtil} from '../../../../src/app/core/services/hateoas.util';
 
 describe('Hateoas Util', () => {
   let util: HateoasUtil;

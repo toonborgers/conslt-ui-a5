@@ -1,4 +1,4 @@
-import {FormatDatePipe} from '../../src/core/core.formatdate';
+import {FormatDatePipe} from '../../../src/app/core/formatdate.pipe';
 
 describe('Format date pipe', () => {
   const pipe = new FormatDatePipe('en');

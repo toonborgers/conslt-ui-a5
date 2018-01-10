@@ -1,7 +1,7 @@
 import {TestBed, async} from '@angular/core/testing';
 import {AppComponent} from '../../src/app/app.component';
 import {HttpClientTestingModule} from '@angular/common/http/testing';
-import {CoreModule} from '../../src/core/core.module';
+import {CoreModule} from '../../src/app/core/module';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
@@ -23,7 +23,7 @@ describe('AppComponent', () => {
   it(`should have as title 'app'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    
+
     expect(app.title).toEqual('app');
   }));
 

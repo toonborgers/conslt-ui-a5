@@ -1,7 +1,7 @@
 import {Component, DebugElement} from '@angular/core';
 import {ComponentFixture, TestBed} from '@angular/core/testing';
-import {HoverableDirective, STYLE_CLASS} from '../../src/core/core.hoverable.directive';
 import {By} from '@angular/platform-browser';
+import {HoverableDirective, STYLE_CLASS} from '../../../src/app/core/hoverable.directive';
 
 describe('Hoverable directive', () => {
   let component: HoverableTestComponent;
