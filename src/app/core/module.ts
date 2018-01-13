@@ -5,6 +5,7 @@ import {FormatDateTimePipe} from './formatdatetime.pipe';
 import {HttpErrorComponent} from './components/httperror.component';
 import {HateoasUtil} from './services/hateoas.util';
 import {EventbusService} from './services/eventbus.service';
+import {WindowProvider} from './window';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import {EventbusService} from './services/eventbus.service';
   ],
   providers: [
     HateoasUtil,
-    EventbusService
+    EventbusService,
+    WindowProvider
   ]
 })
 export class CoreModule {

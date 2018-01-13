@@ -2,7 +2,6 @@ import {HateoasUtil} from '../../../../src/app/core/services/hateoas.util';
 
 describe('Hateoas Util', () => {
   let util: HateoasUtil;
-  const objectWithoutLinks = {};
   const rel = 'rel';
   const href = '/v1/jos';
   const objectWithLink = {
@@ -11,10 +10,6 @@ describe('Hateoas Util', () => {
 
   beforeEach(() => {
     util = new HateoasUtil();
-  });
-
-  it('When no links attribute, return null', () => {
-    expect(util.getLink(objectWithoutLinks, '')).toBeNull();
   });
 
   it('When link not found, return null', () => {

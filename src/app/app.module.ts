@@ -6,6 +6,8 @@ import {AppComponent} from './app.component';
 import {HttpClientModule} from '@angular/common/http';
 import {TranslationModule} from './translate/module';
 import {CoreModule} from './core/module';
+import {MessagingModule} from './messaging/module';
+import {ContextModule} from './context/module';
 
 
 @NgModule({
@@ -16,7 +18,9 @@ import {CoreModule} from './core/module';
     BrowserModule,
     HttpClientModule,
     CoreModule,
-    TranslationModule
+    TranslationModule,
+    MessagingModule,
+    ContextModule
   ],
   providers: [],
   bootstrap: [AppComponent]

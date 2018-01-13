@@ -22,7 +22,6 @@
         "assets/css/main.scss"
       ],
       "scripts": [
-        "../node_modules/jquery/dist/jquery.slim.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {

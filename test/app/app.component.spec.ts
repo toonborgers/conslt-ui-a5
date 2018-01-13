@@ -2,11 +2,12 @@ import {TestBed, async} from '@angular/core/testing';
 import {AppComponent} from '../../src/app/app.component';
 import {HttpClientTestingModule} from '@angular/common/http/testing';
 import {CoreModule} from '../../src/app/core/module';
+import {TranslationModule} from '../../src/app/translate/module';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      imports: [HttpClientTestingModule, CoreModule],
+      imports: [HttpClientTestingModule, CoreModule, TranslationModule],
       declarations: [
         AppComponent
       ],
