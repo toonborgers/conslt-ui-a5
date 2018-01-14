@@ -1,0 +1,41 @@
+.httpErrorContainer {
+  margin: 10px 0px;
+  padding: 10px 10px 10px 10px;
+  min-height: 32px;
+
+  .messageIcon {
+    width: 32px;
+    height: 32px;
+    background-size: 32px 32px;
+    display: inline-block;
+    float: left;
+  }
+
+  .httpError {
+    margin: 0 32px;
+  }
+
+  &.errorMessage {
+    border: 1px solid #E30134;
+
+    .messageIcon {
+      background-image: url('./hint_error-96x96.png');
+    }
+  }
+
+  &.warnMessage {
+    border: 1px solid #F29A1C;
+
+    .messageIcon {
+      background-image: url('./hint_warn-96x96.png');
+    }
+  }
+
+  &.infoMessage {
+    border: 1px solid #1676E0;
+
+    .messageIcon {
+      background-image: url('./hint_info-96x96.png');
+    }
+  }
+}

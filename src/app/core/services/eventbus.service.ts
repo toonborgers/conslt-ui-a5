@@ -5,15 +5,19 @@ import {Observable} from 'rxjs/Observable';
 import 'rxjs/add/operator/filter';
 import 'rxjs/add/operator/map';
 
+export enum EventType {
+  HTTP_ERROR
+}
+
 @Injectable()
 export class EventbusService {
   private messages = new Subject<EventBusArgs>();
 
-  emit(eventType: string, data: any) {
+  emit(eventType: EventType, data: any) {
     this.messages.next(new EventBusArgs(eventType, data));
   }
 
-  observe(eventType: string): Observable<any> {
+  observe(eventType: EventType): Observable<any> {
     return this.messages
       .filter(args => args.type === eventType)
       .map(args => args.data);

@@ -6,6 +6,9 @@ import {HttpErrorComponent} from './components/httperror.component';
 import {HateoasUtil} from './services/hateoas.util';
 import {EventbusService} from './services/eventbus.service';
 import {WindowProvider} from './window';
+import {CommonModule} from '@angular/common';
+import {HTTP_INTERCEPTORS} from '@angular/common/http';
+import {ErrorHttpInterceptor} from './error.httpinterceptor';
 
 @NgModule({
   declarations: [
@@ -23,8 +26,14 @@ import {WindowProvider} from './window';
   providers: [
     HateoasUtil,
     EventbusService,
-    WindowProvider
-  ]
+    WindowProvider,
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: ErrorHttpInterceptor,
+      multi: true
+    }
+  ],
+  imports: [CommonModule]
 })
 export class CoreModule {
 }
