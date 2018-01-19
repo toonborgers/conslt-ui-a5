@@ -1,5 +1,5 @@
 import {BrowserModule} from '@angular/platform-browser';
-import {NgModule} from '@angular/core';
+import {ErrorHandler, NgModule} from '@angular/core';
 
 
 import {AppComponent} from './app.component';
@@ -8,6 +8,7 @@ import {TranslationModule} from './translate/module';
 import {CoreModule} from './core/module';
 import {MessagingModule} from './messaging/module';
 import {ContextModule} from './context/module';
+import {LoggingModule} from './log/module';
 
 
 @NgModule({
@@ -20,9 +21,12 @@ import {ContextModule} from './context/module';
     CoreModule,
     TranslationModule,
     MessagingModule,
-    ContextModule
+    ContextModule,
+    LoggingModule
   ],
-  providers: [],
+  providers: [
+
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule {

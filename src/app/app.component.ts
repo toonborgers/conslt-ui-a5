@@ -20,7 +20,8 @@ export class AppComponent implements OnInit {
         console.log(data.report);
       });
 
-    this.http.get('http://0.0.0.0:8882/qsmfioqsdmifj')
-      .subscribe();
+    // this.http.get('http://0.0.0.0:8882/qsmfioqsdmifj')
+    //   .subscribe();
+
   }
 }
